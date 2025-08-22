@@ -20,4 +20,4 @@ supporting information\
 Univar-simu-normal-rho.R: Table S12 in the supporting information\
 Univar-simu-normal-Pi.R: Table S13 in the supporting information\
 \
-Other files: Necessary R Functions\
+Other files: Necessary R Functions
